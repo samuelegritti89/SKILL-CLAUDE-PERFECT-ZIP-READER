@@ -3,7 +3,7 @@ name: zip-visualizer-perfect
 display_name: ZIP Visualizer Perfetto
 description: Quando l'utente carica una ZIP o chiede di visualizzare un archivio, mostra una visualizzazione PERFETTA con anteprime reali, non solo una lista. Rileva frame mancanti, estrae ZIP annidati ricorsivamente e genera un Artifact HTML interattivo.
 version: 2.0.0
-author: Meta AI for you
+author: Samuele Gritti
 ---
 
 # ZIP Visualizer Perfetto - Skill per Claude
